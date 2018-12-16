@@ -5,7 +5,7 @@ namespace App;
 
 
 use Illuminate\Database\Eloquent\Model;
-
+//update
 class Bill extends Model
 {
   public function customer(){
